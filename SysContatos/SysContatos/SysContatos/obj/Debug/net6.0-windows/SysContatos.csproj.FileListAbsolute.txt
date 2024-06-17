@@ -1,0 +1,72 @@
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.csproj.AssemblyReference.cache
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.Form1.resources
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.csproj.GenerateResource.cache
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.AssemblyInfoInputs.cache
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.AssemblyInfo.cs
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.csproj.CoreCompileInputs.cache
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\SysContatos.exe
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\SysContatos.deps.json
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\SysContatos.runtimeconfig.json
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\SysContatos.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\SysContatos.pdb
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.csproj.CopyComplete
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\obj\Debug\net6.0-windows\refint\SysContatos.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.pdb
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.genruntimeconfig.cache
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\obj\Debug\net6.0-windows\ref\SysContatos.dll
+C:\Users\Josemar\source\repos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.ListaContatos.resources
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\SysContatos.exe
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\SysContatos.deps.json
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\SysContatos.runtimeconfig.json
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\SysContatos.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\SysContatos.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.Form1.resources
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.ListaContatos.resources
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.csproj.GenerateResource.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.csproj.CopyComplete
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\obj\Debug\net6.0-windows\refint\SysContatos.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\obj\Debug\net6.0-windows\SysContatos.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Pei II\SysContatos\SysContatos\SysContatos\obj\Debug\net6.0-windows\ref\SysContatos.dll
